@@ -1,0 +1,5 @@
+c:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab01\TH02\obj\Debug\net8.0\TH02.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab01\TH02\obj\Debug\net8.0\TH02.AssemblyInfoInputs.cache
+c:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab01\TH02\obj\Debug\net8.0\TH02.AssemblyInfo.cs
+c:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab01\TH02\obj\Debug\net8.0\TH02.csproj.CoreCompileInputs.cache
+c:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab01\TH02\obj\Debug\net8.0\TH02.sourcelink.json
