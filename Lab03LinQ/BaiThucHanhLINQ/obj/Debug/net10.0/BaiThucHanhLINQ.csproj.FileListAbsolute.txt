@@ -13,3 +13,18 @@ E:\Project\SGU_CSharp_2026-2027\Lab03-LinQ\BaiThucHanhLINQ\obj\Debug\net10.0\ref
 E:\Project\SGU_CSharp_2026-2027\Lab03-LinQ\BaiThucHanhLINQ\obj\Debug\net10.0\BaiThucHanhLINQ.pdb
 E:\Project\SGU_CSharp_2026-2027\Lab03-LinQ\BaiThucHanhLINQ\obj\Debug\net10.0\BaiThucHanhLINQ.genruntimeconfig.cache
 E:\Project\SGU_CSharp_2026-2027\Lab03-LinQ\BaiThucHanhLINQ\obj\Debug\net10.0\ref\BaiThucHanhLINQ.dll
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab03LinQ\BaiThucHanhLINQ\bin\Debug\net10.0\BaiThucHanhLINQ.exe
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab03LinQ\BaiThucHanhLINQ\bin\Debug\net10.0\BaiThucHanhLINQ.deps.json
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab03LinQ\BaiThucHanhLINQ\bin\Debug\net10.0\BaiThucHanhLINQ.runtimeconfig.json
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab03LinQ\BaiThucHanhLINQ\bin\Debug\net10.0\BaiThucHanhLINQ.dll
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab03LinQ\BaiThucHanhLINQ\bin\Debug\net10.0\BaiThucHanhLINQ.pdb
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab03LinQ\BaiThucHanhLINQ\obj\Debug\net10.0\BaiThucHanhLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab03LinQ\BaiThucHanhLINQ\obj\Debug\net10.0\BaiThucHanhLINQ.AssemblyInfoInputs.cache
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab03LinQ\BaiThucHanhLINQ\obj\Debug\net10.0\BaiThucHanhLINQ.AssemblyInfo.cs
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab03LinQ\BaiThucHanhLINQ\obj\Debug\net10.0\BaiThucHanhLINQ.csproj.CoreCompileInputs.cache
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab03LinQ\BaiThucHanhLINQ\obj\Debug\net10.0\BaiThucHanhLINQ.sourcelink.json
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab03LinQ\BaiThucHanhLINQ\obj\Debug\net10.0\BaiThucHanhLINQ.dll
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab03LinQ\BaiThucHanhLINQ\obj\Debug\net10.0\refint\BaiThucHanhLINQ.dll
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab03LinQ\BaiThucHanhLINQ\obj\Debug\net10.0\BaiThucHanhLINQ.pdb
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab03LinQ\BaiThucHanhLINQ\obj\Debug\net10.0\BaiThucHanhLINQ.genruntimeconfig.cache
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab03LinQ\BaiThucHanhLINQ\obj\Debug\net10.0\ref\BaiThucHanhLINQ.dll
