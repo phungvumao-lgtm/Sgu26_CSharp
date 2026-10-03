@@ -1,9 +1,0 @@
-C:\Users\yandee\OneDrive\Tài liệu\GitHub\SGU_LapTrinh_CSharp_2026-2027\Lab01_CSharp_co_ban\B7-B9\ThucHanh04c\obj\Debug\ThucHanh04c.csproj.AssemblyReference.cache
-C:\Users\yandee\OneDrive\Tài liệu\GitHub\SGU_LapTrinh_CSharp_2026-2027\Lab01_CSharp_co_ban\B7-B9\ThucHanh04c\obj\Debug\ThucHanh04c.Form1.resources
-C:\Users\yandee\OneDrive\Tài liệu\GitHub\SGU_LapTrinh_CSharp_2026-2027\Lab01_CSharp_co_ban\B7-B9\ThucHanh04c\obj\Debug\ThucHanh04c.csproj.GenerateResource.cache
-C:\Users\yandee\OneDrive\Tài liệu\GitHub\SGU_LapTrinh_CSharp_2026-2027\Lab01_CSharp_co_ban\B7-B9\ThucHanh04c\obj\Debug\ThucHanh04c.csproj.CoreCompileInputs.cache
-C:\Users\yandee\OneDrive\Tài liệu\GitHub\SGU_LapTrinh_CSharp_2026-2027\Lab01_CSharp_co_ban\B7-B9\ThucHanh04c\bin\Debug\ThucHanh04c.exe.config
-C:\Users\yandee\OneDrive\Tài liệu\GitHub\SGU_LapTrinh_CSharp_2026-2027\Lab01_CSharp_co_ban\B7-B9\ThucHanh04c\bin\Debug\ThucHanh04c.exe
-C:\Users\yandee\OneDrive\Tài liệu\GitHub\SGU_LapTrinh_CSharp_2026-2027\Lab01_CSharp_co_ban\B7-B9\ThucHanh04c\bin\Debug\ThucHanh04c.pdb
-C:\Users\yandee\OneDrive\Tài liệu\GitHub\SGU_LapTrinh_CSharp_2026-2027\Lab01_CSharp_co_ban\B7-B9\ThucHanh04c\obj\Debug\ThucHanh04c.exe
-C:\Users\yandee\OneDrive\Tài liệu\GitHub\SGU_LapTrinh_CSharp_2026-2027\Lab01_CSharp_co_ban\B7-B9\ThucHanh04c\obj\Debug\ThucHanh04c.pdb

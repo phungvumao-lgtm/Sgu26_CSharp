@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\SGU_LapTrinh_CSharp_2026-2027\\Lab01_CSharp_co_ban\\B7-B9\\ThucHanh04c\\",
+  "WorkspaceRootPath": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu_laptrinh_csharp_2026-2027\\lab01_csharp_co_ban\\b7-b9\\thuchanh04c\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu26_csharp\\lab04\\thuchanh04c\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu_laptrinh_csharp_2026-2027\\lab01_csharp_co_ban\\b7-b9\\thuchanh04c\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu_laptrinh_csharp_2026-2027\\lab01_csharp_co_ban\\b7-b9\\thuchanh04c\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -26,11 +30,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\SGU_LapTrinh_CSharp_2026-2027\\Lab01_CSharp_co_ban\\B7-B9\\ThucHanh04c\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\SGU_LapTrinh_CSharp_2026-2027\\Lab01_CSharp_co_ban\\B7-B9\\ThucHanh04c\\Form1.cs",
+              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -42,26 +46,38 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\SGU_LapTrinh_CSharp_2026-2027\\Lab01_CSharp_co_ban\\B7-B9\\ThucHanh04c\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\SGU_LapTrinh_CSharp_2026-2027\\Lab01_CSharp_co_ban\\B7-B9\\ThucHanh04c\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-03T14:40:47.154Z",
+              "WhenOpened": "2026-10-03T15:19:16.527Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T14:50:48.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\SGU_LapTrinh_CSharp_2026-2027\\Lab01_CSharp_co_ban\\B7-B9\\ThucHanh04c\\App.config",
+              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\App.config",
               "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\SGU_LapTrinh_CSharp_2026-2027\\Lab01_CSharp_co_ban\\B7-B9\\ThucHanh04c\\App.config",
+              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\App.config",
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-10-03T14:14:23.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-03T14:14:23.587Z"
             }
           ]
         }
