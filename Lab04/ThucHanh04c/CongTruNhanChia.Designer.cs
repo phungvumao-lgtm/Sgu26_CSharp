@@ -1,6 +1,6 @@
 ﻿namespace ThucHanh04c
 {
-    partial class Form1
+    partial class CongTruNhanChia
     {
         /// <summary>
         /// Required designer variable.

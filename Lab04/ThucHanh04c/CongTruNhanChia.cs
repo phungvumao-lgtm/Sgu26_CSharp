@@ -4,12 +4,12 @@ using System.Windows.Forms;
 
 namespace ThucHanh04c
 {
-    public partial class Form1 : Form
+    public partial class CongTruNhanChia : Form
     {
         private void label1_Click(object sender, EventArgs e)
         {
         }
-        public Form1()
+        public CongTruNhanChia()
         {
             InitializeComponent();
         }
