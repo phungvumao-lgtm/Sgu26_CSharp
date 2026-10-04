@@ -14,8 +14,6 @@ namespace ThucHanh04c
             InitializeComponent();
         }
 
-        // ---------- MỨC 2: chặn không cho nhập ký tự khác số ----------
-        // Gắn vào KeyPress của txtA và txtB
         private void SoOnly_KeyPress(object sender, KeyPressEventArgs e)
         {
             TextBox tb = (TextBox)sender;
@@ -25,11 +23,10 @@ namespace ThucHanh04c
             if (e.KeyChar.ToString() == sep && !tb.Text.Contains(sep)) return;            // dấu thập phân (1 lần)
             if (e.KeyChar == '-' && tb.SelectionStart == 0 && !tb.Text.Contains("-")) return; // dấu âm ở đầu
 
-            e.Handled = true; // chặn ký tự còn lại
+            e.Handled = true;
         }
 
-        // ---------- MỨC 1: ErrorProvider báo lỗi ----------
-        // Gắn vào Validating của txtA và txtB
+
         private void txt_Validating(object sender, System.ComponentModel.CancelEventArgs e)
         {
             TextBox tb = (TextBox)sender;
@@ -40,7 +37,7 @@ namespace ThucHanh04c
                 errorProvider1.SetError(tb, "");
         }
 
-        // Kiểm tra và lấy 2 số; nếu sai thì báo bằng MessageBox
+  
         private bool LayHaiSo(out double a, out double b)
         {
             bool okA = double.TryParse(txtA.Text, out a);
@@ -64,7 +61,7 @@ namespace ThucHanh04c
             return true;
         }
 
-        // ---------- Các phép tính ----------
+
         private void btnCong_Click(object sender, EventArgs e)
         {
             double a, b;
@@ -97,7 +94,8 @@ namespace ThucHanh04c
             txtKetQua.Text = (a / b).ToString();
         }
 
-        // ---------- Hỏi xác nhận trước khi đóng Form ----------
+   
+   
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             DialogResult r = MessageBox.Show("Bạn có chắc chắn muốn thoát?", "Xác nhận",

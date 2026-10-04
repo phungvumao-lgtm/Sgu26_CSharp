@@ -44,6 +44,43 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include=".cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include=".Designer.cs">
+      <DependentUpon>.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangKyTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangKyTaiKhoan.Designer.cs">
+      <DependentUpon>DangKyTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DaySo.cs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DaySo.cs.Designer.cs">
+      <DependentUpon>DaySo.cs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DocSo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocSo.Designer.cs">
+      <DependentUpon>DocSo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MayTinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MayTinh.Designer.cs">
+      <DependentUpon>MayTinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UocBoiSo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UocBoiSo.Designer.cs">
+      <DependentUpon>UocBoiSo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="CongTruNhanChia.cs">
       <SubType>Form</SubType>
@@ -55,6 +92,21 @@
   <ItemGroup>
     <EmbeddedResource Include="CongTruNhanChia.resx">
       <DependentUpon>CongTruNhanChia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangKyTaiKhoan.resx">
+      <DependentUpon>DangKyTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DaySo.cs.resx">
+      <DependentUpon>DaySo.cs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocSo.resx">
+      <DependentUpon>DocSo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MayTinh.resx">
+      <DependentUpon>MayTinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UocBoiSo.resx">
+      <DependentUpon>UocBoiSo.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

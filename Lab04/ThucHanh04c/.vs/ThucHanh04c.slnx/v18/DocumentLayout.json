@@ -1,12 +1,158 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu26_csharp\\lab04\\thuchanh04c\\congtrunhanchia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|solutionrelative:congtrunhanchia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu26_csharp\\lab04\\thuchanh04c\\dangkytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|solutionrelative:dangkytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu26_csharp\\lab04\\thuchanh04c\\dayso.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|solutionrelative:dayso.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu26_csharp\\lab04\\thuchanh04c\\docso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|solutionrelative:docso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu26_csharp\\lab04\\thuchanh04c\\uocboiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|solutionrelative:uocboiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu26_csharp\\lab04\\thuchanh04c\\uocboiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|solutionrelative:uocboiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu26_csharp\\lab04\\thuchanh04c\\maytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|solutionrelative:maytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu26_csharp\\lab04\\thuchanh04c\\maytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9E3CBB9-6200-4AE9-83EB-CB0E2793D74C}|ThucHanh04c.csproj|solutionrelative:maytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CongTruNhanChia.cs",
+              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\CongTruNhanChia.cs",
+              "RelativeDocumentMoniker": "CongTruNhanChia.cs",
+              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\CongTruNhanChia.cs",
+              "RelativeToolTip": "CongTruNhanChia.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T14:42:20.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangKyTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\DangKyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "DangKyTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\DangKyTaiKhoan.cs",
+              "RelativeToolTip": "DangKyTaiKhoan.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T14:42:15.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DaySo.cs.cs",
+              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\DaySo.cs.cs",
+              "RelativeDocumentMoniker": "DaySo.cs.cs",
+              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\DaySo.cs.cs",
+              "RelativeToolTip": "DaySo.cs.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T14:41:56.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocSo.cs",
+              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\DocSo.cs",
+              "RelativeDocumentMoniker": "DocSo.cs",
+              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\DocSo.cs",
+              "RelativeToolTip": "DocSo.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowGIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T14:41:41.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UocBoiSo.cs",
+              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\UocBoiSo.cs",
+              "RelativeDocumentMoniker": "UocBoiSo.cs",
+              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\UocBoiSo.cs",
+              "RelativeToolTip": "UocBoiSo.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T14:41:35.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MayTinh.cs",
+              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\MayTinh.cs",
+              "RelativeDocumentMoniker": "MayTinh.cs",
+              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\MayTinh.cs",
+              "RelativeToolTip": "MayTinh.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwGgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T14:41:08.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MayTinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\MayTinh.cs",
+              "RelativeDocumentMoniker": "MayTinh.cs",
+              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\MayTinh.cs [Design]",
+              "RelativeToolTip": "MayTinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T14:41:06.091Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UocBoiSo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\UocBoiSo.cs",
+              "RelativeDocumentMoniker": "UocBoiSo.cs",
+              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\ThucHanh04c\\UocBoiSo.cs [Design]",
+              "RelativeToolTip": "UocBoiSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T14:41:05.063Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

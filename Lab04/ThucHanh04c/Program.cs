@@ -10,7 +10,12 @@ namespace ThucHanh04c
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CongTruNhanChia());
+            //Application.Run(new CongTruNhanChia());
+            //Application.Run(new DangKyTaiKhoan());
+            //Application.Run(new UocBoiSo());
+            //Application.Run(new DaySo());
+            //Application.Run(new DocSo());
+            Application.Run(new MayTinh());
         }
     }
 }

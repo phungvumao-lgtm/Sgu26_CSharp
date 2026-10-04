@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\Thuchanh04d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{798E4479-83D2-48F9-9604-F3B17F8850C8}|Thuchanh04d.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu26_csharp\\lab04\\thuchanh04d\\giaiphuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{798E4479-83D2-48F9-9604-F3B17F8850C8}|Thuchanh04d.csproj|solutionrelative:giaiphuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E4479-83D2-48F9-9604-F3B17F8850C8}|Thuchanh04d.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu26_csharp\\lab04\\thuchanh04d\\mangso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{798E4479-83D2-48F9-9604-F3B17F8850C8}|Thuchanh04d.csproj|solutionrelative:mangso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E4479-83D2-48F9-9604-F3B17F8850C8}|Thuchanh04d.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu26_csharp\\lab04\\thuchanh04d\\giaiphuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798E4479-83D2-48F9-9604-F3B17F8850C8}|Thuchanh04d.csproj|solutionrelative:giaiphuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiaiPhuongTrinh.cs",
+              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\Thuchanh04d\\GiaiPhuongTrinh.cs",
+              "RelativeDocumentMoniker": "GiaiPhuongTrinh.cs",
+              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\Thuchanh04d\\GiaiPhuongTrinh.cs",
+              "RelativeToolTip": "GiaiPhuongTrinh.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAIAwwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T15:09:54.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GiaiPhuongTrinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\Thuchanh04d\\GiaiPhuongTrinh.cs",
+              "RelativeDocumentMoniker": "GiaiPhuongTrinh.cs",
+              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\Thuchanh04d\\GiaiPhuongTrinh.cs [Design]",
+              "RelativeToolTip": "GiaiPhuongTrinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T15:09:10.294Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MangSo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\Thuchanh04d\\MangSo.cs",
+              "RelativeDocumentMoniker": "MangSo.cs",
+              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab04\\Thuchanh04d\\MangSo.cs [Design]",
+              "RelativeToolTip": "MangSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T15:07:01.931Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

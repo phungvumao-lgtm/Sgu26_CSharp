@@ -1,0 +1,10 @@
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab04\Thuchanh04d\bin\Debug\Thuchanh04d.exe.config
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab04\Thuchanh04d\bin\Debug\Thuchanh04d.exe
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab04\Thuchanh04d\bin\Debug\Thuchanh04d.pdb
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab04\Thuchanh04d\obj\Debug\Thuchanh04d.csproj.AssemblyReference.cache
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab04\Thuchanh04d\obj\Debug\ThucHanh04c.GiaiPhuongTrinh.resources
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab04\Thuchanh04d\obj\Debug\ThucHanh04d.MangSo.resources
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab04\Thuchanh04d\obj\Debug\Thuchanh04d.csproj.GenerateResource.cache
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab04\Thuchanh04d\obj\Debug\Thuchanh04d.csproj.CoreCompileInputs.cache
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab04\Thuchanh04d\obj\Debug\Thuchanh04d.exe
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab04\Thuchanh04d\obj\Debug\Thuchanh04d.pdb
