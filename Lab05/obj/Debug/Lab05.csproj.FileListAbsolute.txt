@@ -1,0 +1,10 @@
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab05\bin\Debug\Lab05.exe.config
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab05\bin\Debug\Lab05.exe
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab05\bin\Debug\Lab05.pdb
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab05\obj\Debug\Lab05.exe
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab05\obj\Debug\Lab05.pdb
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab05\obj\Debug\Lab05.Thuchanh05a.resources
