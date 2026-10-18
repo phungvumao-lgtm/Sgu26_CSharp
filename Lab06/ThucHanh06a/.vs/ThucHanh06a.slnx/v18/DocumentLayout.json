@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab06\\ThucHanh06a\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{870EE84B-EC64-4F0C-8B17-1E3496D576A7}|ThucHanh06a.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu26_csharp\\lab06\\thuchanh06a\\qlmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{870EE84B-EC64-4F0C-8B17-1E3496D576A7}|ThucHanh06a.csproj|solutionrelative:qlmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{870EE84B-EC64-4F0C-8B17-1E3496D576A7}|ThucHanh06a.csproj|c:\\users\\yandee\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\sgu26_csharp\\lab06\\thuchanh06a\\qlmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{870EE84B-EC64-4F0C-8B17-1E3496D576A7}|ThucHanh06a.csproj|solutionrelative:qlmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,36 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QLMonHoc.cs",
-              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab06\\ThucHanh06a\\QLMonHoc.cs",
-              "RelativeDocumentMoniker": "QLMonHoc.cs",
-              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab06\\ThucHanh06a\\QLMonHoc.cs",
-              "RelativeToolTip": "QLMonHoc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-18T03:51:07.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "QLMonHoc.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab06\\ThucHanh06a\\QLMonHoc.cs",
-              "RelativeDocumentMoniker": "QLMonHoc.cs",
-              "ToolTip": "C:\\Users\\yandee\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Sgu26_CSharp\\Lab06\\ThucHanh06a\\QLMonHoc.cs [Design]",
-              "RelativeToolTip": "QLMonHoc.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-18T03:50:50.694Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

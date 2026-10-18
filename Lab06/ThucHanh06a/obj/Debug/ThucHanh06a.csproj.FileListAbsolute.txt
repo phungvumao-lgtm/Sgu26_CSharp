@@ -1,0 +1,11 @@
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06a\obj\Debug\ThucHanh06a.csproj.AssemblyReference.cache
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06a\obj\Debug\ThucHanh06a.QLMonHoc.resources
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06a\obj\Debug\ThucHanh06a.csproj.GenerateResource.cache
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06a\obj\Debug\ThucHanh06a.csproj.CoreCompileInputs.cache
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06a\bin\Debug\ThucHanh06a.exe.config
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06a\bin\Debug\ThucHanh06a.exe
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06a\bin\Debug\ThucHanh06a.pdb
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06a\obj\Debug\ThucHanh06a.exe
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06a\obj\Debug\ThucHanh06a.pdb
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06a\obj\Debug\ThucHanh06a.QLSinhVien.resources
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06a\obj\Debug\ThucHanh06a.QLLop.resources

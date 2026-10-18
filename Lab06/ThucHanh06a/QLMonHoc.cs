@@ -7,8 +7,10 @@ namespace ThucHanh06a
     public partial class QLMonHoc : Form
     {
         // Chứng thực Windows. Sửa Data Source cho đúng tên server của bạn
+        // Kết nối SQL Server chạy trong Docker
         private SqlConnection conn = new SqlConnection(
-            "Data Source=.;Initial Catalog=QLSinhVien;Integrated Security=True");
+            "Data Source=localhost,1433;Initial Catalog=QLSinhVien;" +
+            "User ID=sa;Password=Matkhau@123;TrustServerCertificate=True");
 
         public QLMonHoc()
         {

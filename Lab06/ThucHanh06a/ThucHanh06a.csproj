@@ -44,6 +44,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="QLLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLLop.Designer.cs">
+      <DependentUpon>QLLop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLDiem.Designer.cs">
+      <DependentUpon>QLDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLSinhVien.Designer.cs">
+      <DependentUpon>QLSinhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
     <Compile Include="QLMonHoc.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -52,8 +71,14 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="QLLop.resx">
+      <DependentUpon>QLLop.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="QLMonHoc.resx">
       <DependentUpon>QLMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLSinhVien.resx">
+      <DependentUpon>QLSinhVien.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
