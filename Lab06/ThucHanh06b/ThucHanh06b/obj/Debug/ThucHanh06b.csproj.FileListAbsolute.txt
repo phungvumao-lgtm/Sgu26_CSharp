@@ -1,0 +1,7 @@
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06b\ThucHanh06b\obj\Debug\ThucHanh06b.csproj.AssemblyReference.cache
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06b\ThucHanh06b\obj\Debug\ThucHanh06b.csproj.CoreCompileInputs.cache
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06b\ThucHanh06b\bin\Debug\ThucHanh06b.exe.config
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06b\ThucHanh06b\bin\Debug\ThucHanh06b.exe
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06b\ThucHanh06b\bin\Debug\ThucHanh06b.pdb
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06b\ThucHanh06b\obj\Debug\ThucHanh06b.exe
+C:\Users\yandee\OneDrive\Tài liệu\GitHub\Sgu26_CSharp\Lab06\ThucHanh06b\ThucHanh06b\obj\Debug\ThucHanh06b.pdb
